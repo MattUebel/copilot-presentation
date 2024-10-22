@@ -1,5 +1,7 @@
 # GitHub Copilot: Your AI-Powered Coding Partner
 
+[![Build Status](https://github.com/MattUebel/copilot-presentation/actions/workflows/ci.yml/badge.svg)](https://github.com/MattUebel/copilot-presentation/actions)
+
 Welcome to the staging area for materials related to the talk, **"GitHub Copilot: Your AI-Powered Coding Partner."** This repository serves as a central hub for content, resources, and links that will help you understand and utilize GitHub Copilot in your coding workflows.
 
 ## Overview
