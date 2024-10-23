@@ -25,6 +25,8 @@ The `examples/` directory contains the following example code files:
 
 - `example1.py`: Demonstrates a feature of GitHub Copilot Workspace.
 - `example2.py`: Demonstrates another feature of GitHub Copilot Workspace.
+- `example3.py`: Demonstrates a feature of GitHub Copilot Workspace with functions to calculate the square and cube of a number.
+- `example4.py`: Demonstrates a feature of GitHub Copilot Workspace with functions to convert temperatures between Celsius and Fahrenheit.
 
 Feel free to modify and experiment with the example code files to better understand how GitHub Copilot Workspace can assist you in your development workflow.
 
