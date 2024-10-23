@@ -23,8 +23,15 @@ The `presentation` directory contains the following supporting files for the pre
 
 The `examples/` directory contains the following example code files:
 
-- `example1.py`: Demonstrates a feature of GitHub Copilot Workspace.
-- `example2.py`: Demonstrates another feature of GitHub Copilot Workspace.
+- `math_operations/example1.py`: Demonstrates a feature of GitHub Copilot Workspace.
+- `greetings/example2.py`: Demonstrates another feature of GitHub Copilot Workspace.
+
+## Subdirectories
+
+The `examples/` directory is organized into the following subdirectories:
+
+- `math_operations/`: Contains example code files related to mathematical operations.
+- `greetings/`: Contains example code files related to greeting messages.
 
 Feel free to modify and experiment with the example code files to better understand how GitHub Copilot Workspace can assist you in your development workflow.
 
