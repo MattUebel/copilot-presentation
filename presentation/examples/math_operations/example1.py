@@ -1,30 +1,31 @@
 # Example 1: Demonstrating a feature of GitHub Copilot Workspace
 
-def add(a, b):
+def add(a: float, b: float) -> float:
     """
     Function to add two numbers.
     """
     return a + b
 
-def subtract(a, b):
+def subtract(a: float, b: float) -> float:
     """
     Function to subtract two numbers.
     """
     return a - b
 
-def multiply(a, b):
+def multiply(a: float, b: float) -> float:
     """
     Function to multiply two numbers.
     """
     return a * b
 
-def divide(a, b):
+def divide(a: float, b: float) -> float:
     """
     Function to divide two numbers.
     """
-    if b == 0:
-        raise ValueError("Cannot divide by zero")
-    return a / b
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return float('inf')
 
 if __name__ == "__main__":
     x = 10
