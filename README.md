@@ -36,6 +36,26 @@ Delve into the fundamentals of prompt engineering, a crucial skill for optimizin
 Gain insights into specific techniques that can help you craft better prompts and refine how GitHub Copilot responds in various coding scenarios.  
 [Explore prompt engineering techniques](https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot)
 
+## LLM Topics
+
+The `docs` directory contains markdown files on various LLM topics. Below are brief descriptions and links to each markdown file:
+
+**Overview of LLM Development**  
+Provides an overview of the history, key concepts, and current state of LLM development.  
+[Read more about LLM development](docs/overview-of-llm-development.md)
+
+**Hardware Requirements for LLMs**  
+Details the CPU, GPU, memory, and storage requirements for LLMs.  
+[Learn about hardware requirements](docs/hardware-requirements-for-llms.md)
+
+**Software Tools for LLMs**  
+Covers frameworks, libraries, and development environments for LLMs.  
+[Explore software tools](docs/software-tools-for-llms.md)
+
+**Future Trends in LLMs**  
+Discusses emerging technologies, research directions, and potential applications of LLMs.  
+[Read about future trends](docs/future-trends-in-llms.md)
+
 ## Contributing
 
 Contributions are welcome! If you have additional resources, insights, or materials related to GitHub Copilot that can enhance this repository, please submit a pull request.
